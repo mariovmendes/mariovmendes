@@ -1,10 +1,10 @@
-## Hi! Welcome to my profile 👋
+## &nbsp; Hi! Welcome to my profile 👋
 
 * Computer Science Student  <a href="https://www.fct.unl.pt/">@NOVA_SST<a/>
 
 <hr/>
 
-### Github Stats
+### &nbsp; Github Stats
 
 <div>
   <a href="https://github.com/mendes4dev">
@@ -14,7 +14,7 @@
 
 <hr/>
 
-### Favourite Tools
+### &nbsp; Favourite Tools
 
 <div style="display: inline-block"><br>
   <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
