@@ -6,7 +6,7 @@
 
 ### &nbsp; Github Stats
 
-<div>
+<div align="center">
   <a href="https://github.com/mendes4dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mendes4dev&show_icons=true&theme=github_dark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendes4dev&layout=compact&langs_count=16&theme=github_dark">
