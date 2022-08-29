@@ -1,6 +1,6 @@
 ## &nbsp; Hi! Welcome to my profile 👋
 
-* Computer Science Student  <a href="https://www.fct.unl.pt/">@NOVA_SST<a/>
+* Computer Engineering Student  <a href="https://www.fct.unl.pt/">@NOVA_SST<a/>
 
 <hr/>
 
