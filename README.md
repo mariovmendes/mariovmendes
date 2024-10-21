@@ -1,6 +1,7 @@
 ## &nbsp; Hi! Welcome to my profile 👋
 
-* Computer Engineering Student  <a href="https://www.fct.unl.pt/">@NOVA_SST<a/>
+* Bsc - Computer Engineering Student (2021-2024) <a href="https://www.fct.unl.pt/">@NOVA_SST<a/>
+* Msc - Computer Engineering Student (2024-2026) <a href="https://tecnico.ulisboa.pt/pt/">UL_Tecnico<a/>
 
 <hr/>
 
